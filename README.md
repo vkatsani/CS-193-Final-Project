@@ -8,8 +8,8 @@ Sometimes you underestimate the difficulty of a task (like homework or studying)
 
 ## How It Works
 
-![System diagram](<img width="1553" height="1319" alt="Blank diagram" src="https://github.com/user-attachments/assets/5700543d-376a-4312-a497-8066745fbefa" />
-)
+![System diagram](<img width="1553" height="1319" alt="CS 193 Flowchart Final" src="https://github.com/user-attachments/assets/1526fd33-e113-496b-9d8e-308622db734d" />).
+
 
 ## Tech Stack
 
