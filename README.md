@@ -10,7 +10,7 @@ Sometimes you underestimate the difficulty of a task (like homework or studying)
 
 This program begins by posing a main menu with a welcome message, allowing users to select a number that coordinates with each option: view tasks, add tasks, delete tasks, or exit the program. Viewing tasks brings the user to a window that displays all tasks, their due dates, and their difficulty. Add tasks prompts the user for a task name, and then a difficulty and due date. Delete tasks prompts the user for the task name, and exit ends the program. 
 
-docs/<img width="1553" height="1319" alt="CS 193 Flowchart Final" src="https://github.com/user-attachments/assets/32d597d9-6a77-44ee-aa45-6c80918f4e55" />
+<img width="1553" height="1319" alt="CS 193 Flowchart Final" src="https://github.com/user-attachments/assets/32d597d9-6a77-44ee-aa45-6c80918f4e55" />
 
 ## Tech Stack
 
